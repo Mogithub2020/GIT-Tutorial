@@ -1,2 +1,4 @@
+When on branches, it has a different color
+
 The rainbow has many colors 
 including red, orange, yellow
