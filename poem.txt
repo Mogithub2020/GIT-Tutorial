@@ -1,4 +1,4 @@
 When on branches, it has a different color
-
-The rainbow has many colors 
-including red, orange, yellow
+On Branch 2,
+The rainbow has even more colors 
+including green, blue, indigo and violet
